@@ -1,0 +1,2 @@
+# sekolahku
+Sistem Informasi Sekolah
